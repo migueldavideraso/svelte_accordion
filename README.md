@@ -1,6 +1,8 @@
 # Svelte Accordion
 ### Demos
 https://migueldavideraso.github.io/svelte_accordion/dist/
+### Repository
+https://github.com/migueldavideraso/svelte_accordion
 #### Getting started
 ```html
 <script>
