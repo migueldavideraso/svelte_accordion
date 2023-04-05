@@ -1,7 +1,7 @@
 {
-  "name": "@migueleraso/svelte-accordion",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@migueleraso/svelte-accordion-example",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
   "license": "ISC",
   "scripts": {
